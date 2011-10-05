@@ -1,3 +1,5 @@
 This is file b.
 
 Here is some more stuff in b.
+
+And yet more!
