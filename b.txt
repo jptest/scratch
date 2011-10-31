@@ -1,4 +1,4 @@
-This is file b.
+This is file b. This is not file b. You decide.
 
 Here is some more stuff in b.
 
