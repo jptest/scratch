@@ -5,3 +5,5 @@ Here is some more stuff in b.
 Now I have edited b!
 
 Forked and edited.
+
+Capability Enabled!
